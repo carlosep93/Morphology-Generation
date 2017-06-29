@@ -1,0 +1,7 @@
+******************************************************
+*Paths to libraries needed for translation           *
+******************************************************
+
+MOSES_DIR=/home/carlos/moses/tools/mosesdecoder
+SRILM_DIR=/home/carlos/srilm/bin/i686-m64
+BASELINE_DIR=/home/carlos/Escritorio/codigo/baseline/
