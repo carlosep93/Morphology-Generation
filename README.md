@@ -6,11 +6,12 @@ Implementation of the work presentented in the paper Morphology Generation for S
 
 In order to run the model for translation:
 
-'''
+```
 
 translate.py [--stdin, -f path-to-input-file] [--stdout, -o path-to-output-file]
 
-'''
+```
+
 Options --stdin and --stdout to read and print results using the standard IO channel. -f and -o to translate from and to a file.
 
 # Configuration
