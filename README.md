@@ -18,9 +18,9 @@ Options --stdin and --stdout to read and print results using the standard IO cha
 
 In order to execute the code in the file config/config the following paths to dependencies are required to the be modified according to your system:
 
-MOSES_DIR: Path to Moses installation
-SRILM_DIR: Path to Srilm installation
-BASELINE: Path to trained Moses model
+* MOSES_DIR: Path to Moses installation
+* SRILM_DIR: Path to Srilm installation
+* BASELINE: Path to trained Moses model
 
 
 
